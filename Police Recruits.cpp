@@ -15,7 +15,7 @@ int counter[1000001] = {};
 int main()
 {
     ahmed
-        ll t, n, cpolice=0, ctreated=0,ngreat=0;
+        ll t, n, cpolice=0, ctreated=0;
     cin >> t;
     for (int i = 0; i < t; i++) {
         cin >> n;
